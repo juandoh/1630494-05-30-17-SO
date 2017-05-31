@@ -11,3 +11,5 @@ sección 4.2.2 y se espera que el estudiante realice la solucion.
 
 Estudiante: Juan Diego Ordoñez Huila
 Código: 1630494
+
+En el cual se hizo unas modificaciones al archivo readerwriter.c para solucionar el problema, utilizando semaforos para llevar la sincronizacion.

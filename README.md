@@ -8,3 +8,6 @@ Existe una solucion que se propone en el libro
 sección 4.2.2 y se espera que el estudiante realice la solucion.
 
 #1630494-05-30-17-SO
+
+Estudiante: Juan Diego Ordoñez Huila
+Código: 1630494
